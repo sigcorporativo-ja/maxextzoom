@@ -29,9 +29,9 @@
     "description": "Zoom a la extensión del mapa",
     "text": "Permite realizar un zoom a la extensión del mapa ",
     "version": "1.0.0",
-    "date": "Diciembre, 2019",
+    "date": "Junio, 2020",
     "author": "",
-    "org": "Consejería de Medioambiente y Ordenación del Territorio de la Junta de Andalucía",
+    "org": "Consejería de Hacienda, Industria y Energía. Junta de Andalucía.",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg",
     "centralized": true
