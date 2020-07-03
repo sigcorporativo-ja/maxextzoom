@@ -25,10 +25,6 @@ Plugin que va a la extensión y posición original del mapa base.
   - 'BL':bottom left
   - 'BR':bottom right
 
-## Eventos
-
-## Otros métodos
-
 ## Ejemplos de uso
 
 ### Ejemplo 1
@@ -49,7 +45,7 @@ Plugin que va a la extensión y posición original del mapa base.
     container: 'map'
   }); 
 
-  const mp = new M.plugin.MaxExtZoom({});
+  const mp = new M.plugin.MaxExtZoom();
 
   map.addPlugin(mp);
 ```
